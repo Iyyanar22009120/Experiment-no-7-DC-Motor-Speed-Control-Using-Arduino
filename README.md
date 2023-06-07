@@ -27,6 +27,11 @@ As shown in the circuit diagram we need only 3 Arduino terminal pins, pin 8 is f
 
 ### PRGORAM 
 ```
+IYYANAR S
+212222240036
+```
+
+```
 #define m1 2
 #define m2 3
 int output;
@@ -68,7 +73,9 @@ void loop()
 
 
 ### OUTPUT
+## before stimulation:
 ![image](https://github.com/Iyyanar22009120/Experiment-no-7-DC-Motor-Speed-Control-Using-Arduino/assets/118680259/801fdb80-7d47-404f-ae79-84c1fadbeb90)
+## after stimulation:
 ![image](https://github.com/Iyyanar22009120/Experiment-no-7-DC-Motor-Speed-Control-Using-Arduino/assets/118680259/7afa1373-9cd2-40e7-be45-d68fa30b3f37)
 
 
